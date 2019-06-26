@@ -7,6 +7,7 @@ draft: false
 summary: Type your subtitle here - the summary that would appear on blog cards
 description: Type the long description for meta tag. Dolore in aliqua dolor labore nulla esse veniam magna commodo in occaecat laborum veniam exercitation sit dolor sit ea exercitation reprehenderit in proident.
 image: /images/illustrations/digital.jpg
+alt: CMMS The right cmms promise blog image four
 author_name: Author Name
 author_handle: author_tag
 author_handle_link: https://www.rightcmms.com/

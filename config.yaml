@@ -85,8 +85,9 @@ params:
     # Where the main hero button links to
     buttonlink: ""
     # Hero image (from static/images/___)
-    image: illustrations/CMMS-Homepage-Banner-image.svg
+    image: CMMS-Homepage-Banner-image
     # Footer logos (from static/images/logos/clients/___.svg)
+    alt: CMMS The Right CMMS Promise Banner Illustration Image
     clientlogos:
     - systek
     - tribe
@@ -99,16 +100,19 @@ params:
     tiles:
     - title: SALES PROCESS
       icon: mouse-globe
+      alt: CMMS the right cmms promise Sales Process icon
       text: Why CMMS? What is a CMMS? How it helps? Everything you wanted to know about a CMMS and did not know who to ask. Learn through a number of useful articles that will support you in beginning your CMMS journey.
       url: /
       buttonText: 
     - title: USER RATINGS
       icon: laptop-cloud
+      alt: CMMS the right cmms promise User Ratings icon
       text: Are you ready for a CMMS yet? Would it be ok to start with a spreadsheet system? If I opt for a CMMS, what ROI can I expect? How does the implementation progress? What kind of resources does a business have to commit when implementing a CMMS?
       url: /
       buttonText: 
     - title: PRICING
       icon: plug-cloud
+      alt: CMMS the right cmms promise Pricing icon
       text: Which CMMS to buy? Who are the vendors? Who can best meet my requirements? How do they compare amongst each other? There are so many out there. Are there FREE trials that can help me test drive the right CMMS?
       url: /
       buttonText: 
@@ -144,31 +148,37 @@ params:
     - name: Blog 1
       text: Why CMMS? What is a CMMS? How it helps? Everything you wanted to know about a CMMS and did not know who to ask. Learn through a number of useful articles that will support you in beginning your CMMS journey.
       img: 1
+      alt: CMMS the right cmms promise One image
       buttonText: Read More
       buttonLink: 
     - name: Blog 2
       text: Are you ready for a CMMS yet? Would it be ok to start with a spreadsheet system? If I opt for a CMMS, what ROI can I expect? How does the implementation progress? What kind of resources does a business have to commit when implementing a CMMS?
       img: 2
+      alt: CMMS the right cmms promise Two image
       buttonText: Read More
       buttonLink: 
     - name: Blog 3
       text: Which CMMS to buy? Who are the vendors? Who can best meet my requirements? How do they compare amongst each other? There are so many out there. Are there FREE trials that can help me test drive the right CMMS?
       img: 3
+      alt: CMMS the right cmms promise Three image
       buttonText: Read More
       buttonLink: 
     ebooks:
     - title: The most kick ass ebook on CMMS
       buttonText: Download
       img: 1
+      alt: CMMS the right cmms promise One image
       buttonLink: 
     - title: The second most kick ass ebook on CMMS
       buttonText: Download
       img: 2
+      alt: CMMS the right cmms promise One image
       buttonLink: 
   section5: false
   footer:
     # Logo (from /images/logos/___)
     logo: CMMS-rightcmms-full-white-logo.svg
+    alt: CMMS the right cmms promise White Logo
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
     - link: https://github.com/lucperkins/github-fresh

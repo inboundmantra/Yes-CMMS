@@ -19,7 +19,7 @@
         <div class="column is-4">
           <div class="feature-card is-bordered has-text-centered revealOnScroll delay-1" data-animation="fadeInLeft">
             <div class="card-image">
-                <img src="{{ printf "/images/illustrations/faces/%s.png" (string .img) | relURL }}">
+                <img src="{{ printf "/images/illustrations/faces/%s.png" (string .img) | relURL }}" alt={{ .alt }}>
             </div>
             <div class="card-title mt-20">
               <h4>{{ .name }}</h4>
@@ -50,7 +50,7 @@
         {{- range $ebooks }}
           <div class="column is-6">
             <article class="ebook-card icon-box columns is-mobile">
-              <img class="column is-5 has-zero-padding cover" src="{{ printf "/images/illustrations/faces/%s.png" (string .img) | relURL }}">
+              <img class="column is-5 has-zero-padding cover" src="{{ printf "/images/illustrations/faces/%s.png" (string .img) | relURL }}" alt={{ .alt }}>
               <div class="media-content column is-7">
                 <div class="content">
                   <p>

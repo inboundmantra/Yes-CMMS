@@ -12,7 +12,7 @@
             <div class="card-image">
               <figure class="image is-4by3">
                 <a href="/blog/{{ replace (lower .Title) " " "-" }}">
-                  <img src="{{ .Params.image }}" class="cover" alt="Placeholder image">
+                  <img src="{{ .Params.image }}" class="cover" alt="{{ .Params.alt }}">
                 </a>
               </figure>
             </div>

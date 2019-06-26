@@ -6,6 +6,7 @@ date: 2019-06-17T17:08:21+05:30
 draft: false
 description: Dolore in aliqua dolor labore nulla esse veniam magna commodo in occaecat laborum veniam exercitation sit dolor sit ea exercitation reprehenderit in proident.
 image: /images/illustrations/CMMS-Homepage-Banner-image.svg
+alt: CMMS The right cmms promise blog image three
 author_name: Rold Margruv
 author_handle: rold
 author_handle_link: https://www.rightcmms.com/

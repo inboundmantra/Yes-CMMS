@@ -4,6 +4,7 @@ subtitle:
 summary: Type your subtitle here - the summary that would appear on blog cards
 description: Dolore in aliqua dolor labore nulla esse veniam magna commodo in occaecat laborum veniam exercitation sit dolor sit ea exercitation reprehenderit in proident.
 image: /images/illustrations/worker.png
+alt: CMMS The right cmms promise blog image two
 date: 2018-03-20T15:26:23-06:00
 author_name: Rold Margruv
 author_handle: rold

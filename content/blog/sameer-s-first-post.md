@@ -6,7 +6,6 @@ author_image = "/uploads/new-07.svg"
 author_name = "Sameer Rana"
 date = "2019-06-12T18:30:00+00:00"
 description = "wagsdfjosindjbubjkafsvujafsviubjkvsziuj"
-draft = true
 image = "/uploads/new-07.svg"
 sidebar = false
 sidebarlogo = ""

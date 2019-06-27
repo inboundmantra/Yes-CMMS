@@ -1,0 +1,43 @@
+---
+label: Blog Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subtitle
+  label: subtitle
+- type: text
+  name: summary
+  label: summary
+- type: textarea
+  name: description
+  label: description
+- type: file
+  name: image
+  label: image
+- type: text
+  name: alt
+  label: alt
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: author_name
+  label: author_name
+- type: text
+  name: author_handle
+  label: author_handle
+- type: text
+  name: author_handle_link
+  label: author_handle_link
+- type: file
+  name: author_image
+  label: author_image
+- type: boolean
+  name: sidebar
+  label: sidebar
+- type: text
+  name: sidebarlogo
+  label: sidebarlogo

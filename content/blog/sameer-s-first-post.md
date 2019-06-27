@@ -11,7 +11,7 @@ sidebar = false
 sidebarlogo = ""
 subtitle = "This is blah bleh bluh"
 summary = "vbnmksdfghbnmyvghbjklfdgnbyghbj fiedsbf asf giua wa fiugafai awefgiawu"
-title = "Sameer's first post"
+title = "Sameer first post"
 
 +++
 # iurheogiarengo

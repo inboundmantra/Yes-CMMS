@@ -10,7 +10,7 @@ image = "/uploads/new-07.svg"
 sidebar = false
 sidebarlogo = ""
 subtitle = "This is blah bleh bluh"
-summary = "vbnmksdfghbnmyvghbjklfdgnbyghbj"
+summary = "vbnmksdfghbnmyvghbjklfdgnbyghbj fiedsbf asf giua wa fiugafai awefgiawu"
 title = "Sameer's first post"
 
 +++

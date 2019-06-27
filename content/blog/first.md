@@ -2,18 +2,19 @@
 title: First
 subtitle: 
 summary: Type your subtitle here - the summary that would appear on blog cards
-description: Dolore in aliqua dolor labore nulla esse veniam magna commodo in occaecat laborum veniam exercitation sit dolor sit ea exercitation reprehenderit in proident.
-image: /images/illustrations/CMMS-Homepage-Banner-image.svg
+description: Dolore in aliqua dolor labore nulla esse veniam magna commodo in occaecat
+  laborum veniam exercitation sit dolor sit ea exercitation reprehenderit in proident.
+image: "/images/illustrations/CMMS-Homepage-Banner-image.svg"
 alt: CMMS The right cmms promise blog image one
-date: 2017-02-20T15:26:23-06:00
-author_name: Rajagopalan C
+date: 2017-02-20T21:26:23.000+00:00
+author_name: Rajagopalan
 author_handle: raj
 author_handle_link: https://www.inboundmantra.com/
-author_image: /images/illustrations/faces/1.png
-sidebar: False
+author_image: "/images/illustrations/faces/1.png"
+sidebar: false
 sidebarlogo: fresh-white-alt
----
 
+---
 # dolor labore nulla esse veniam magna commodo in occaecat laborum veniam exercitation sit dolor sit ea exercitation reprehenderit in proident.
 
 <br/>

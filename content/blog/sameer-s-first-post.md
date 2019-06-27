@@ -1,7 +1,7 @@
 +++
 alt = "settings"
 author_handle = "sameer000"
-author_handle_link = "https://sameer000.github.io/"
+author_handle_link = "https://sameer000.github.io/IM/"
 author_image = "/uploads/new-07.svg"
 author_name = "Sameer Rana"
 date = "2019-06-12T18:30:00+00:00"

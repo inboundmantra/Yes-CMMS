@@ -7,7 +7,7 @@ description: Dolore in aliqua dolor labore nulla esse veniam magna commodo in oc
 image: "/images/illustrations/CMMS-Homepage-Banner-image.svg"
 alt: CMMS The right cmms promise blog image one
 date: 2017-02-20T21:26:23.000+00:00
-author_name: Rajagopalan
+author_name: Rajagopalan C
 author_handle: raj
 author_handle_link: https://www.inboundmantra.com/
 author_image: "/images/illustrations/faces/1.png"

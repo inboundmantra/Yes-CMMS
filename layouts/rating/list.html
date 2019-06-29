@@ -1,0 +1,6 @@
+{{ define "main" }}
+	<h1> Ratings List Template Works</h1>
+	{{ range .Data.Pages }}
+		<h3>{{ .Title }}</h3>
+	{{ end }}
+{{ end }}

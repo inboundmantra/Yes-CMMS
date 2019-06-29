@@ -47,7 +47,7 @@ params:
     - title: Dropdown item
       url: /
   - title: CMMS Softwares
-    url: /ratings
+    url: /rating
   - title: Login
     url: /
     button: true

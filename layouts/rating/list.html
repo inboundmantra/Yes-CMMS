@@ -7,11 +7,13 @@
 {{ end }}
 </ul>
 	{{ range .Data.Pages }}
-	
+
 	<div class="">
-		<img src="{{ .Params.image }}" alt="" />
+		<a href="/rating/{{ replace (lower .Title) " " "-" }}">
+			<img src="{{ .Params.image }}" alt="" />
 			<h3>{{ .Title }}</h3>
 			<p>{{ .Params.rating }}</p>
+			</a>
 	</div>
 
 	{{ end }}

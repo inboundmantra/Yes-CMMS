@@ -6,9 +6,9 @@
 <h6>List of all CMMS</h6>
 <h1>CMMS Software</h1>
 </div>
-<div class="container ratings">
+<div class="container">
 {{ $table := .Site.Data.rating_table.tableList }}
-<ul>
+<ul class="rating-list">
 {{ range $table }}
 <li>{{ .li }}</li>
 {{ end }}
@@ -18,8 +18,13 @@
 <div class="rating-card">
 <a href="/rating/{{ replace (lower .Title) " " "-" }}">
 <img src="{{ .Params.image }}" alt="" />
-<h3>{{ .Title }}</h3>
+</a>
+<a href="/rating/{{ replace (lower .Title) " " "-" }}">
+	<h3>{{ .Title }}</h3>
+</a>
 <p class="star{{ .Params.rating }}"></p>
+<a href="/rating/{{ replace (lower .Title) " " "-" }}">
+<button type="button" name="button">DETAILS</button>
 </a>
 </div>
 

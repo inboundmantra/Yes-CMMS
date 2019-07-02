@@ -1,9 +1,9 @@
 ---
-title: "UpKeep"
+title: "EZOfficeInventory"
 date: 2017-02-20T21:26:23.000+00:00
 draft: false
 type: rating
-image: https://cdn0.capterra-static.com/logos/150/2102917-1504552699.png
+image: https://cdn0.capterra-static.com/logos/150/2086464-1558592200.png
 rating: 4-5
 
 ---

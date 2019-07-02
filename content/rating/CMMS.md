@@ -1,10 +1,10 @@
 ---
-title: "UpKeep"
+title: "CMMS"
 date: 2017-02-20T21:26:23.000+00:00
 draft: false
 type: rating
-image: https://cdn0.capterra-static.com/logos/150/2102917-1504552699.png
-rating: 4-5
+image: https://cdn0.capterra-static.com/logos/150/2117746-1510662085.png
+rating: 0-0
 
 ---
 ## This is a testing blog for ratings

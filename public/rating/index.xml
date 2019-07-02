@@ -1,1 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ratings on</title><link>https://www.rightcmms.com/rating/</link><description>Recent content in Ratings on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 29 Jun 2019 12:59:20 +0530</lastBuildDate><atom:link href="https://www.rightcmms.com/rating/index.xml" rel="self" type="application/rss+xml"/><item><title>Three</title><link>https://www.rightcmms.com/rating/three/</link><pubDate>Sat, 29 Jun 2019 12:59:20 +0530</pubDate><guid>https://www.rightcmms.com/rating/three/</guid><description/></item><item><title>Two</title><link>https://www.rightcmms.com/rating/two/</link><pubDate>Sat, 29 Jun 2019 12:59:13 +0530</pubDate><guid>https://www.rightcmms.com/rating/two/</guid><description/></item><item><title>One</title><link>https://www.rightcmms.com/rating/one/</link><pubDate>Sat, 29 Jun 2019 12:48:10 +0530</pubDate><guid>https://www.rightcmms.com/rating/one/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ratings on </title>
+    <link>https://www.rightcmms.com/rating/</link>
+    <description>Recent content in Ratings on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Jun 2019 12:59:13 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.rightcmms.com/rating/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Two</title>
+      <link>https://www.rightcmms.com/rating/two/</link>
+      <pubDate>Sat, 29 Jun 2019 12:59:13 +0530</pubDate>
+      
+      <guid>https://www.rightcmms.com/rating/two/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GP MaTe</title>
+      <link>https://www.rightcmms.com/rating/one/</link>
+      <pubDate>Sat, 29 Jun 2019 12:48:10 +0530</pubDate>
+      
+      <guid>https://www.rightcmms.com/rating/one/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UpKeep</title>
+      <link>https://www.rightcmms.com/rating/three/</link>
+      <pubDate>Sat, 29 Jun 2019 12:48:10 +0530</pubDate>
+      
+      <guid>https://www.rightcmms.com/rating/three/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

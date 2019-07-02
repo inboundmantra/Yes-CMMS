@@ -1,6 +1,19 @@
 {{ define "main" }}
-	<h1> Ratings List Template Works</h1>
+	<h1>CMMS Software</h1>
+{{ $table := .Site.Data.rating_table.tableList }}
+<ul>
+{{ range $table }}
+	<li>{{ .li }}</li>
+{{ end }}
+</ul>
 	{{ range .Data.Pages }}
-		<h3>{{ .Title }}</h3>
+	
+	<div class="">
+		<img src="{{ .Params.image }}" alt="" />
+			<h3>{{ .Title }}</h3>
+			<p>{{ .Params.rating }}</p>
+	</div>
+
 	{{ end }}
+
 {{ end }}

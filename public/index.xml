@@ -12,33 +12,6 @@
     
     
     <item>
-      <title>Two</title>
-      <link>https://www.rightcmms.com/rating/two/</link>
-      <pubDate>Sat, 29 Jun 2019 12:59:13 +0530</pubDate>
-      
-      <guid>https://www.rightcmms.com/rating/two/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GPMaTe</title>
-      <link>https://www.rightcmms.com/rating/one/</link>
-      <pubDate>Sat, 29 Jun 2019 12:48:10 +0530</pubDate>
-      
-      <guid>https://www.rightcmms.com/rating/one/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UpKeep</title>
-      <link>https://www.rightcmms.com/rating/three/</link>
-      <pubDate>Sat, 29 Jun 2019 12:48:10 +0530</pubDate>
-      
-      <guid>https://www.rightcmms.com/rating/three/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Fourth</title>
       <link>https://www.rightcmms.com/blog/fourth/</link>
       <pubDate>Mon, 17 Jun 2019 17:19:44 +0530</pubDate>
@@ -81,6 +54,24 @@
       
       <guid>https://www.rightcmms.com/blog/first/</guid>
       <description>Type your subtitle here - the summary that would appear on blog cards</description>
+    </item>
+    
+    <item>
+      <title>GPMaTe</title>
+      <link>https://www.rightcmms.com/rating/gpmate/</link>
+      <pubDate>Mon, 20 Feb 2017 21:26:23 +0000</pubDate>
+      
+      <guid>https://www.rightcmms.com/rating/gpmate/</guid>
+      <description>This is a testing blog for ratings erty yu ywefhbfwfb wfb fb wfb wfb whjfb hwbf hjwbf hjwkfb jwhkvf wvf wfv wvf wvf.</description>
+    </item>
+    
+    <item>
+      <title>UpKeep</title>
+      <link>https://www.rightcmms.com/rating/upkeep/</link>
+      <pubDate>Mon, 20 Feb 2017 21:26:23 +0000</pubDate>
+      
+      <guid>https://www.rightcmms.com/rating/upkeep/</guid>
+      <description>This is a testing blog for ratings erty yu ywefhbfwfb wfb fb wfb wfb whjfb hwbf hjwbf hjwkfb jwhkvf wvf wfv wvf wvf.</description>
     </item>
     
   </channel>

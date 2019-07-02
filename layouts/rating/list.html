@@ -1,21 +1,29 @@
 {{ define "main" }}
-	<h1>CMMS Software</h1>
+{{ partial "navbar.html" . }}
+{{ partial "navbar-clone.html" . }}
+
+<div class="hero-banner">
+<h6>List of all CMMS</h6>
+<h1>CMMS Software</h1>
+</div>
+<div class="container ratings">
 {{ $table := .Site.Data.rating_table.tableList }}
 <ul>
 {{ range $table }}
-	<li>{{ .li }}</li>
+<li>{{ .li }}</li>
 {{ end }}
 </ul>
-	{{ range .Data.Pages }}
+{{ range .Data.Pages }}
 
-	<div class="">
-		<a href="/rating/{{ replace (lower .Title) " " "-" }}">
-			<img src="{{ .Params.image }}" alt="" />
-			<h3>{{ .Title }}</h3>
-			<p>{{ .Params.rating }}</p>
-			</a>
-	</div>
+<div class="rating-card">
+<a href="/rating/{{ replace (lower .Title) " " "-" }}">
+<img src="{{ .Params.image }}" alt="" />
+<h3>{{ .Title }}</h3>
+<p class="star{{ .Params.rating }}"></p>
+</a>
+</div>
 
-	{{ end }}
-
+{{ end }}
+</div>
+{{ partial "footer.html" . }}
 {{ end }}

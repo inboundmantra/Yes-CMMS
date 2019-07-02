@@ -3,26 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.rightcmms.com/rating/</loc>
-    <lastmod>2019-06-29T12:59:13+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.rightcmms.com/rating/two/</loc>
-    <lastmod>2019-06-29T12:59:13+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.rightcmms.com/rating/one/</loc>
-    <lastmod>2019-06-29T12:48:10+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.rightcmms.com/rating/three/</loc>
-    <lastmod>2019-06-29T12:48:10+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.rightcmms.com/blog/</loc>
     <lastmod>2019-06-17T17:19:44+05:30</lastmod>
   </url>
@@ -69,6 +49,21 @@
   
   <url>
     <loc>https://www.rightcmms.com/blog/first/</loc>
+    <lastmod>2017-02-20T21:26:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.rightcmms.com/rating/gpmate/</loc>
+    <lastmod>2017-02-20T21:26:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.rightcmms.com/rating/</loc>
+    <lastmod>2017-02-20T21:26:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.rightcmms.com/rating/upkeep/</loc>
     <lastmod>2017-02-20T21:26:23+00:00</lastmod>
   </url>
   

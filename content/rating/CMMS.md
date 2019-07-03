@@ -4,7 +4,9 @@ date: 2017-02-20T21:26:23.000+00:00
 draft: false
 type: rating
 image: https://cdn0.capterra-static.com/logos/150/2117746-1510662085.png
-rating: 0-0
+rating1: 0-0
+rating2: 0-0
+rating3: 0-0
 
 ---
 ## This is a testing blog for ratings

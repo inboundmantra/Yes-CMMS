@@ -16,18 +16,23 @@
 {{ range .Data.Pages }}
 
 <div class="rating-card">
-<a href="/rating/{{ replace (lower .Title) " " "-" }}">
-<img src="{{ .Params.image }}" alt="" />
-</a>
-<a href="/rating/{{ replace (lower .Title) " " "-" }}">
-	<h3>{{ .Title }}</h3>
-</a>
-<p class="star{{ .Params.rating }}"></p>
+	<div class="rating-profile">
+		<h3>{{ .Title }}</h3>
+		<img src="{{ .Params.image }}" alt="" />
+	</div>
+<div class="capterra-rating">
+	<p class="star{{ .Params.rating1 }}"></p>
+</div>
+<div class="g2-rating">
+	<p class="star{{ .Params.rating2 }}"></p>
+</div>
+<div class="sw-rating">
+	<p class="star{{ .Params.rating3 }}"></p>
+</div>
 <a href="/rating/{{ replace (lower .Title) " " "-" }}">
 <button type="button" name="button">DETAILS</button>
 </a>
 </div>
-
 {{ end }}
 </div>
 {{ partial "footer.html" . }}

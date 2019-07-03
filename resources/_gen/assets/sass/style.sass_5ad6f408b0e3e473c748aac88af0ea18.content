@@ -7479,6 +7479,26 @@ a {
   .rating-list li:last-child {
     border-right: 0 solid #ccc; }
 
+.rating-card {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  width: 100%; }
+
+.rating-profile {
+  width: 25%; }
+
+.capterra-rating {
+  width: 25%; }
+
+.g2-rating {
+  width: 25%; }
+
+.sw-rating {
+  width: 25%; }
+
 .container.is-readable a {
   border-bottom: 2px solid #fc0;
   border-bottom-color: #ffcc00;

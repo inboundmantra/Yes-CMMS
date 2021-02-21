@@ -6,7 +6,6 @@ author_image = ""
 author_name = "Farooq"
 date = 2021-02-20T18:30:00Z
 description = "Trial Forestry Blog Publishing By Farooq"
-draft = true
 image = "/uploads/new-07.svg"
 sidebar = false
 sidebarlogo = ""

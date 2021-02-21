@@ -38,6 +38,8 @@ params:
     url: /landing
   - title: Blog
     url: /blog
+  - title: Resource
+    url: /blog  
   - title: Learn
     sublinks:
     - title: Preventive Maintenance
